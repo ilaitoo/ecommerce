@@ -1,0 +1,6 @@
+[submodule "main-website"]
+	path = main-website
+	url = git@github.com:ilaitoo/main-website.git
+[submodule "admin-panel"]
+	path = admin-panel
+	url = git@github.com:ilaitoo/admin-panel.git
